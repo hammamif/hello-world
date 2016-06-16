@@ -1,3 +1,3 @@
 # hello-world
-short description
+Short description:
 The tutorial guide told me to make changes.
